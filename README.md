@@ -1,11 +1,11 @@
 ## Holiis!
 
-- 🔭 I’m currently exploring and learning in the DAW program, covering topics like:
-    * Web Development: HTML, CSS, XHTML, XML, Java SE, JavaFX.
-    * Databases: Oracle Database XE, SQLPlus, MariaDB, HeidiSQL, XAMPP.
-    * Programming Tools: JDK, JRE, SDK Java, NetBeans, Visual Studio Code.
-    * ERP Systems: Odoo.
-    * Operating Systems and Cybersecurity: Windows, Linux, macOS, basic cybersecurity concepts.
+- 🔭 I’m currently exploring and learning in the DAW program, covering topics such as:
+    * **Web Development**: HTML, CSS, XHTML, XML, Java SE, JavaFX.
+    * **Databases**: Oracle Database XE, SQL*Plus, MariaDB, HeidiSQL, XAMPP.
+    * **Programming Tools**: Git, GitHub, Visual Studio Code, JDK, JRE, Java SDK, NetBeans.
+    * **ERP Systems**: Odoo.
+    * **Operating Systems and Cybersecurity**: macOS (ilove), Windows, Linux, basic cybersecurity concepts.
 - 🌱 I’m currently learning: DAW (Web Application Development).
 - 👯 I’m looking to collaborate on: Learning first and then making mistakes... or making mistakes while learning!
 - 🤔 I’m looking for help with: Everything! I want to learn, and the best way is for people to teach me.
