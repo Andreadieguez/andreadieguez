@@ -1,4 +1,7 @@
-## Holiis!
+## Hola, soy Andrea 🐑!
+
+
+### sobre mi
 
 - 🔭 I’m currently exploring and learning in the DAW program, covering topics such as:
     * **Web Development**: HTML, CSS, XHTML, XML, Java SE, JavaFX.
