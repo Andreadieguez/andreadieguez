@@ -1,5 +1,4 @@
-## Hola, soy Andrea 🐑!
-
+## Hola, soy [Andrea](https://andreadieguez.github.io/) 🦙!
 
 ### sobre mi
 
@@ -16,5 +15,3 @@
 - 📫 How to reach me: barriodieguezandrea@gmail.com or via [GitHub: pop_outlaw](https://github.com/Andreadieguez).
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: My life has always been rooted in a more artistic and cinematographic background, and I absolutely love design—I can spend hours observing and learning about it. Of course, the computer has always been just another tool for me, and programming feels natural. I enjoy it, and never get bored… Ah! And I’m obsessed with sheep! 🐑
-
-
